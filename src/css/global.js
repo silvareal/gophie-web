@@ -257,7 +257,8 @@ div.movie {
     transition: .3s;
     border-top-left-radius: .3em;
     border-top-right-radius: .3em;
-    min-height: 20.6em
+    height: 20.6em;
+    object-fit: cover;
   }
   
   div.movie-image img:hover {
